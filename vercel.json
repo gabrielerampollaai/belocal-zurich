@@ -1,4 +1,6 @@
 {
+  "framework": null,
+  "buildCommand": "",
   "outputDirectory": "public",
   "functions": {
     "api/chat.mjs": { "maxDuration": 60 }

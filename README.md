@@ -22,7 +22,7 @@ dev-server.mjs     server locale per lo sviluppo (stesse route di Vercel)
 1. Installa [Node.js](https://nodejs.org) 22 o superiore.
 2. `npm install`
 3. Copia `.env.example` come `.env` e inserisci la tua `ANTHROPIC_API_KEY`. Il file `.env` non va mai committato.
-4. `npm start` (su Windows basta un doppio clic su `start.bat`), poi apri http://localhost:8000
+4. `npm run dev` (su Windows basta un doppio clic su `start.bat`), poi apri http://localhost:8000
 
 ## Deploy
 
