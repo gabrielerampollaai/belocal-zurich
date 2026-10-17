@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "node server.mjs"
+    "start": "node dev-server.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.135.0"

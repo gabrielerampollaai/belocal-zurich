@@ -9,7 +9,7 @@ public/            sito statico (index.html, styles.css, app.js)
 lib/concierge.mjs  logica dell'agente: prompt, modello, ricerca web, streaming
 api/chat.mjs       funzione serverless Vercel: POST /api/chat
 api/status.mjs     funzione serverless Vercel: GET /api/status
-server.mjs         server locale per lo sviluppo (stesse route di Vercel)
+dev-server.mjs     server locale per lo sviluppo (stesse route di Vercel)
 ```
 
 - **Modello**: `claude-opus-5-5`, effort `low`. Si cambia in `lib/concierge.mjs`.
